@@ -1,7 +1,3 @@
-Below is a detailed, implementation-focused proposal for the LFX mentorship project. This proposal describes how to refactor the current Microcks CLI into a Cobra-based utility (mksctl) and outlines every step of the implementation in terms of file structure, command definitions, error handling, packaging, and testing.
-
----
-
 ## 1. Overall Code Organization
 
 - **Directory Structure**  
